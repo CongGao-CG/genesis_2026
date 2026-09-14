@@ -1,6 +1,6 @@
 # A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency
 
-[![DOI](https://zenodo.org/badge/1370452656.svg)](https://doi.org/10.5281/zenodo.22758581)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22758581.svg)](https://doi.org/10.5281/zenodo.22758581)
 
 **Cong Gao and Ning Lin**  
 Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA

@@ -1,5 +1,7 @@
 # A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency
 
+[![DOI](https://zenodo.org/badge/1370452656.svg)](https://doi.org/10.5281/zenodo.22758581)
+
 **Cong Gao and Ning Lin**  
 Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA
 
@@ -34,4 +36,4 @@ Each script saves PDF and SVG files and opens the PDF.
 
 See [CITATION.cff](CITATION.cff) for citation metadata and [LICENSE](LICENSE) for the MIT license.
 
-The arXiv identifier and Zenodo DOI will be added when available.
+The arXiv identifier will be added when available.

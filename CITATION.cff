@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using these scripts or data."
+type: software
+license: MIT
+title: "Figure scripts and data for: A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency"
+authors:
+  - family-names: Gao
+    given-names: Cong
+    affiliation: "Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA"
+    email: cong.gao@princeton.edu
+  - family-names: Lin
+    given-names: Ning
+    affiliation: "Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA"
+    email: nlin@princeton.edu
+preferred-citation:
+  type: unpublished
+  title: "A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency"
+  authors:
+    - family-names: Gao
+      given-names: Cong
+    - family-names: Lin
+      given-names: Ning
+  year: 2026
+# Add the arXiv identifier, repository URL, and Zenodo DOI when available.

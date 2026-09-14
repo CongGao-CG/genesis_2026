@@ -1,0 +1,19 @@
+A common warming-dependent decline emerges from divergent projections of tropical cyclone frequency
+
+Cong Gao and Ning Lin
+Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA
+Correspondence: cong.gao@princeton.edu; nlin@princeton.edu
+
+Figure scripts and input data accompanying the paper.
+GFig1–GFig4 reproduce Figures 1–4; GFigS1–GFigS2 reproduce Figures S1–S2.
+Each figure script is self-contained and uses the included input data.
+The TSV files contain TC rates; gmt/ contains global-temperature inputs.
+
+Requires Python 3.10+ with matplotlib, numpy, pandas, scipy, statsmodels,
+xarray, netCDF4, and cftime. From this folder, run:
+
+    for f in GFig1 GFig2 GFig3 GFig4 GFigS1 GFigS2; do python "$f.py"; done
+
+Each script saves PDF and SVG files and opens the PDF.
+See CITATION.cff for citation metadata and LICENSE for reuse terms.
+The arXiv identifier and Zenodo DOI will be added when available.
